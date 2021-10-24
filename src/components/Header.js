@@ -21,7 +21,7 @@ function Header() {
                 <Link to="contact">contact</Link>
               </li>
               <li>
-                <Link to="#post">Admin Login</Link>
+                <Link to="login">Admin Login</Link>
               </li>
             </ul>
           </nav>

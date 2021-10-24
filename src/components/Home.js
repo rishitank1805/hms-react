@@ -45,49 +45,49 @@ function Home() {
 
             <div className="box" data-aos="zoom-in">
               <a href="images/img2.jpg" title="our lab">
-                <img src="images/img2.jpg" alt="" />
+                <img src="/assets/images/img2.jpg" alt="" />
               </a>
             </div>
 
             <div className="box" data-aos="zoom-in">
               <a href="images/img3.jpg" title="emergency rooms">
-                <img src="images/img3.jpg" alt="" />
+                <img src="/assets/images/img3.jpg" alt="" />
               </a>
             </div>
 
             <div className="box" data-aos="zoom-in">
               <a href="images/img4.jpg" title="expert doctors">
-                <img src="images/img4.jpg" alt="" />
+                <img src="/assets/images/img4.jpg" alt="" />
               </a>
             </div>
 
             <div className="box" data-aos="zoom-in">
               <a href="images/img5.jpg" title="expert doctors">
-                <img src="images/img5.jpg" alt="" />
+                <img src="/assets/images/img5.jpg" alt="" />
               </a>
             </div>
 
             <div className="box" data-aos="zoom-in">
               <a href="images/img6.jpg" title="emergency rooms">
-                <img src="images/img6.jpg" alt="" />
+                <img src="/assets/images/img6.jpg" alt="" />
               </a>
             </div>
 
             <div className="box" data-aos="zoom-in">
               <a href="images/img7.jpg" title="expert doctors">
-                <img src="images/img7.jpg" alt="" />
+                <img src="/assets/images/img7.jpg" alt="" />
               </a>
             </div>
 
             <div className="box" data-aos="zoom-in">
               <a href="images/img8.jpg" title="emergency rooms">
-                <img src="images/img8.jpg" alt="" />
+                <img src="/assets/images/img8.jpg" alt="" />
               </a>
             </div>
 
             <div className="box" data-aos="zoom-in">
               <a href="images/img9.jpg" title="enough beds">
-                <img src="images/img9.jpg" alt="" />
+                <img src="/assets/images/img9.jpg" alt="" />
               </a>
             </div>
           </div>
@@ -109,7 +109,7 @@ function Home() {
               </p>
               <h3>Rishi</h3>
               <span>jan 5, 2021</span>
-              <img src="images/pic1.png" alt="" />
+              <img src="/assets/images/pic1.png" alt="" />
             </div>
 
             <div className="box" data-aos="fade-up">
@@ -120,7 +120,7 @@ function Home() {
               </p>
               <h3>Karan</h3>
               <span>jan 7, 2021</span>
-              <img src="images/pic2.png" alt="" />
+              <img src="/assets/images/pic2.png" alt="" />
             </div>
 
             <div className="box" data-aos="fade-left">
@@ -131,7 +131,7 @@ function Home() {
               </p>
               <h3>Sahil</h3>
               <span>jan 10, 2021</span>
-              <img src="images/pic3.png" alt="" />
+              <img src="/assets/images/pic3.png" alt="" />
             </div>
           </div>
         </div>
@@ -175,7 +175,7 @@ function Home() {
 
           <div className="box-container">
             <div className="box" data-aos="fade-right">
-              <img src="images/img2.jpg" alt="" />
+              <img src="/assets/images/img2.jpg" alt="" />
               <div className="content">
                 <span>jan 5, 2021</span>
                 <a href="#">
@@ -193,7 +193,7 @@ function Home() {
             </div>
 
             <div className="box" data-aos="fade-up">
-              <img src="images/img4.jpg" alt="" />
+              <img src="/assets/images/img4.jpg" alt="" />
               <div className="content">
                 <span>jan 5, 2021</span>
                 <a href="#">
@@ -211,7 +211,7 @@ function Home() {
             </div>
 
             <div className="box" data-aos="fade-left">
-              <img src="images/img5.jpg" alt="" />
+              <img src="/assets/images/img5.jpg" alt="" />
               <div className="content">
                 <span>jan 5, 2021</span>
                 <a href="#">

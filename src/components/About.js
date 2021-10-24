@@ -41,7 +41,7 @@ function About() {
           </div>
 
           <div className="col-md-6 d-none d-md-block" data-aos="fade-left">
-            <img src=".assets/images/about-img.png" width="100%" alt="" />
+            <img src="/assets/images/about-img.png" width="100%" alt="" />
           </div>
         </div>
       </div>
